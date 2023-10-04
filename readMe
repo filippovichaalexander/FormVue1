@@ -1,0 +1,6 @@
+To launchon a local PC
+
+1. git clone 
+2. cd to the folder 
+3. npm i
+4. npm run dev
